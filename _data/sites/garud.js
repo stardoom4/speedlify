@@ -6,6 +6,10 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://zola4.netlify.app"
+		"https://zola4.netlify.app/"
+		"https://garud.netlify.app/profile"
+                "https://garud.netlify.app/articles"
+                "https://garud.netlify.app/shows"
+                "https://garud.netlify.app/microblog"
 	]
 };
